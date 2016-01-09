@@ -1,3 +1,6 @@
+/*The IntList class constructs and manages a linked list of integers. It consists of the following methods:
+addToFront, addToEnd, removeFirst, print, length, toString, removeLast and replace.
+*/
 
 public class IntList {
     
